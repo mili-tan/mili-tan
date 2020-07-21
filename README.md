@@ -1,4 +1,13 @@
-### Hi there 👋
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=mili-tan&show_icons=true" />
+
+### Hi, this is Milkey! 👋
+aka. mili-tan / mk-mili / xuan
+
+I'm often a newbie and a continuous learner. I'm working on creating more visual and easy-to-use tools that make many things easier!
+
+I'm also working on distributed networks and privacy security. I hope for a better Internet for everyone.
+
+📫 Fuzhou, Fujian, China | 🌐 [mili.one](https://mili.one/)
 
 <!--
 **mili-tan/mili-tan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
