@@ -9,13 +9,13 @@ I'm also working on distributed networks and privacy security. I hope better Int
 
 📫 Fuzhou, Fujian, China | 🌐 [mili.one](https://mili.one/)
 
-If you want, you can buy me a coffee or beer or something else.
+If you want, you can buy me a coffee or beer or something else. ✨
 
-ETH: 0xd3Cc440B8AdBa63F2D25feA900fc16F434a6700c 
+🍻 ETH: 0xd3Cc440B8AdBa63F2D25feA900fc16F434a6700c 
 
-XLM: GDUW4QGKSLS43MEASMDKCGRS4AF5NRCIL75TCLGVMGXZB2FPY64VOZAA
+☕ XLM: GDUW4QGKSLS43MEASMDKCGRS4AF5NRCIL75TCLGVMGXZB2FPY64VOZAA
 
-TRX: TSboD8M9ioAM6qM6N4zzWcQi72wyLhNBqE
+🍰 TRX: TSboD8M9ioAM6qM6N4zzWcQi72wyLhNBqE
 
 <!--
 **mili-tan/mili-tan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
