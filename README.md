@@ -3,13 +3,15 @@
 ### Hi, this is Milkey! 👋
 aka. mili-tan / mk-mili / xuan
 
-I'm often a newbie and a continuous learner. I'm working on creating more visual and easy-to-use tools that make many things easier!
+🔰 I'm often a newbie and a continuous learner. I'm working on creating more visual and easy-to-use tools that make many things easier!
 
 I'm also working on distributed networks and privacy security. I hope better Internet for everyone.
 
 📫 Fuzhou, Fujian, China | 🌐 [mili.one](https://mili.one/)
 
-If you want, you can buy me a coffee or beer or something else. ✨
+------------
+
+✨ If you want, you can buy me a coffee or beer or something else. ✨
 
 🍻 ETH: 0xd3Cc440B8AdBa63F2D25feA900fc16F434a6700c 
 
