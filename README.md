@@ -11,9 +11,9 @@ I'm also working on distributed networks and privacy security. I hope better Int
 
 ------------
 
-✨ If you want, you can buy me a coffee or beer or something else. ✨
+✨ If you want, you can buy me a coffee or beer or something else. 🍻
 
-🍻 ETH: 0xd3Cc440B8AdBa63F2D25feA900fc16F434a6700c 
+🍺 ETH: 0xd3Cc440B8AdBa63F2D25feA900fc16F434a6700c 
 
 ☕ XLM: GDUW4QGKSLS43MEASMDKCGRS4AF5NRCIL75TCLGVMGXZB2FPY64VOZAA
 
