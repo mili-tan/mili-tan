@@ -9,7 +9,7 @@ I'm also working on distributed networks and privacy security. I hope better Int
 
 📫 Fuzhou, Fujian, China | 🌐 [mili.one](https://mili.one/)
 
-------------
+<a href='#'><img src='https://mili.one/static/rainbow.svg' height="3px" width="100%"/></a>
 
 ✨ If you want, you can buy me a coffee or beer or something else. 🍻
 
