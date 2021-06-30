@@ -2,9 +2,11 @@
 ### Hi, this is Milkey! 👋
 aka. mili-tan / mk-mili / xuan
 
-🔰 I'm often a newbie and a continuous learner. I'm working on creating more visual and easy-to-use tools that make many things easier!
+🔰 I'm often a newbie and a continuous learner, working on creating more visual and easy-to-use tools that make many things easier! 
 
-I'm also working on distributed networks and privacy security. I hope better Internet for everyone.
+I am also a former domain broker, former ChinaSkills and WorldSkills competitor, welcome to talk with me randomly about related.
+
+I am interested in distributed networks and privacy security, hope better Internet for everyone.
 
 📫 Fuzhou, Fujian, China | 🌐 [mili.one](https://mili.one/)
 
