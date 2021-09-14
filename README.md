@@ -8,7 +8,7 @@ I am also a former domain broker, former ChinaSkills and WorldSkills competitor,
 
 I am interested in distributed networks and privacy security, hope better Internet for everyone.
 
-📫 Fuzhou, Fujian, China | 🌐 [mili.one](https://mili.one/)
+📫 Fuzhou & Xiamen, Fujian, China | 🌐 [mili.one](https://mili.one/) | 💬 [@milkey_work](https://t.me/milkey_work)
 
 <a href='#'><img src='https://mili.one/static/rainbow.svg' height="3px" width="100%"/></a>
 
