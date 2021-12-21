@@ -1,6 +1,6 @@
 <a href='#'><img align="right" src="https://github-readme-stats.vercel.app/api?username=mili-tan&show_icons=true" /></a>
 ### Hi, this is Milkey! 👋
-aka. mili-tan / mk-mili / xuan
+aka. mili-tan / xuan
 
 🔰 I'm often a newbie and a continuous learner, working on creating more visual and easy-to-use tools that make many things easier! 
 
@@ -14,11 +14,15 @@ I am interested in distributed networks and privacy security, hope better Intern
 
 ✨ If you want, you can buy me a coffee or beer or something else. 🍻
 
-🍺 ETH: 0xd3Cc440B8AdBa63F2D25feA900fc16F434a6700c 
+🍺 ETH: 0xd3Cc440B8AdBa63F2D25feA900fc16F434a6700c
+
+🍰 TRX: TSboD8M9ioAM6qM6N4zzWcQi72wyLhNBqE
 
 ☕ XLM: GDUW4QGKSLS43MEASMDKCGRS4AF5NRCIL75TCLGVMGXZB2FPY64VOZAA
 
-🍰 TRX: TSboD8M9ioAM6qM6N4zzWcQi72wyLhNBqE
+🍪 DOT: 14wxXZ9sCAS9vYeaJq8CHW5NgGXVxwuFpEQe2nYSycgbYPvY
+
+🍭 KSM: GXH3YEfxkBcEfTW7ttF3JcDyEp65KAJC7WuG9q3uKsa7JrF
 
 <!--
 **mili-tan/mili-tan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
