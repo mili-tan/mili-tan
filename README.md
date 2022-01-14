@@ -1,4 +1,7 @@
 <a href='#'><img align="right" src="https://github-readme-stats.vercel.app/api?username=mili-tan&show_icons=true" /></a>
+<br/>
+<a href='#'><img align="right" src="https://en.cryptobadges.io/badge/big/0xd3Cc440B8AdBa63F2D25feA900fc16F434a6700c?showBalance=true" /></a>
+
 ### Hi, this is Milkey! 👋
 aka. mili-tan / xuan
 
@@ -11,9 +14,8 @@ I am interested in distributed networks and privacy security, hope better Intern
 📫 Fuzhou & Xiamen, Fujian, China | 🌐 [mili.one](https://mili.one/) | 💬 [@milkey_work](https://t.me/milkey_work)
 
 <a href='#'><img src='https://mili.one/static/rainbow.svg' height="3px" width="100%"/></a>
-<a href='#'><img align="right" src="https://en.cryptobadges.io/badge/big/0xd3Cc440B8AdBa63F2D25feA900fc16F434a6700c?showBalance=true" /></a>
 
-✨ If you want, you can buy me a coffee or beer or something else.
+✨ If you want, you can buy me a coffee or beer or something else. 🍻
 
 🍺 ETH: 0xd3Cc440B8AdBa63F2D25feA900fc16F434a6700c
 
