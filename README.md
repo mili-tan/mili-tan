@@ -1,6 +1,6 @@
 <a href='#'><img align="right" src="https://github-readme-stats.vercel.app/api?username=mili-tan&show_icons=true" /></a>
 <br/>
-<a href='#'><img align="right" src="https://en.cryptobadges.io/badge/big/0xd3Cc440B8AdBa63F2D25feA900fc16F434a6700c?showBalance=true" /></a>
+<!----- a href='#'><img align="right" src="https://en.cryptobadges.io/badge/big/0xd3Cc440B8AdBa63F2D25feA900fc16F434a6700c?showBalance=true" /></a ----->
 
 ### Hi, this is Milkey! 👋
 aka. mili-tan / xuan
