@@ -19,13 +19,9 @@ I am interested in distributed networks and privacy security, hope better Intern
 
 🍺 ETH: 0xd3Cc440B8AdBa63F2D25feA900fc16F434a6700c
 
-🍰 TRX: TSboD8M9ioAM6qM6N4zzWcQi72wyLhNBqE
-
-☕ XLM: GDUW4QGKSLS43MEASMDKCGRS4AF5NRCIL75TCLGVMGXZB2FPY64VOZAA
+☕ TRX: TSboD8M9ioAM6qM6N4zzWcQi72wyLhNBqE
 
 🍪 DOT: 14wxXZ9sCAS9vYeaJq8CHW5NgGXVxwuFpEQe2nYSycgbYPvY
-
-🍭 KSM: GXH3YEfxkBcEfTW7ttF3JcDyEp65KAJC7WuG9q3uKsa7JrF
 
 <!--
 **mili-tan/mili-tan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
