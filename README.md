@@ -1,4 +1,4 @@
-<a href='#'><img align="right" width="550" src="https://githubcard.com/mili-tan.svg?d=S2-tGtlv" /></a>
+<a href='#'><img align="right" width="450" src="https://githubcard.com/mili-tan.svg?d=tMJGz0gj" /></a>
 <br/>
 <!----- a href='#'><img align="right" src="https://en.cryptobadges.io/badge/big/0xd3Cc440B8AdBa63F2D25feA900fc16F434a6700c?showBalance=true" /></a ----->
 
